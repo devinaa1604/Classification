@@ -1,11 +1,11 @@
 # Classification
-This repository is for me to experiemnt with various Classification Models using Python. Refer to the Supplemental folder for the necessary downloads.
+This repository is for me to experiment with various Classification Models using Python. Refer to the Supplemental folder for the necessary downloads.
 
 ## Topics Covered
 1. Logistic Regression
 2. Confusion Matrix
 3. Support Vector Machine
-4. Decision Dree
+4. Decision Tree
 5. Random Forest
 6. Gradient Boosted Trees
 7. Oversampling
